@@ -1,4 +1,0 @@
-# aplicacion
-aplicacion
-
-hi
